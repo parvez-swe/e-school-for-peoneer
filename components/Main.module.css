@@ -1,0 +1,53 @@
+.mains {
+  display: flex;
+  flex-direction: row;
+  margin: 50px 0 0 100px;
+}
+.images {
+  text-align: center;
+  width: 198.07px;
+  height: 59px;
+  left: 100px;
+  top: 10px;
+  margin: 0 auto;
+}
+.texts {
+  width: 50%;
+}
+.imgs {
+  object-fit: cover;
+}
+/*typography*/
+.p {
+  color: red;
+}
+.h1_black {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 40px;
+  /* or 146% */
+
+  color: #000000;
+}
+.h1_black span {
+  color: #21b573;
+}
+.p_black {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 36px;
+  /* or 225% */
+
+  color: #6c6b6b;
+}
+.start_btn {
+  background: #21b573;
+  color: white;
+  border-radius: 33px;
+  border: none;
+  padding: 12px 36px;
+}

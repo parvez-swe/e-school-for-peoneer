@@ -5,8 +5,7 @@
 }
 .images {
   text-align: center;
-  width: 198.07px;
-  height: 59px;
+  width: 42%;
   left: 100px;
   top: 10px;
   margin: 0 auto;
@@ -16,6 +15,7 @@
 }
 .imgs {
   object-fit: cover;
+  height: 100%;
 }
 /*typography*/
 .p {
